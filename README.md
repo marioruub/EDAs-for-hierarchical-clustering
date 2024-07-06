@@ -1,5 +1,5 @@
 # EDAs-for-hierarchical-clustering
-Estimation of Distribution Algorithms applied to hierarchical clustering
+Estimation of Distribution Algorithms (EDAs) applied to hierarchical clustering
 
 In this repository you will find:
 - EDAperm: EDA with the Mallows model.
